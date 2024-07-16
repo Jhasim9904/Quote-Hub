@@ -27,6 +27,8 @@ Quote Hub is a web application that provides a platform for users to discover an
 ## Getting Started
 To get started with Quote Hub, simply open the website in your browser and start exploring! You can generate new quotes, like and save your favorite quotes, and share them on social media.
 
+You can explore the site using this link: https://quotehub4u.netlify.app/
+
 ## License
 Quote Hub is licensed under the MIT License. See LICENSE for details.
 
@@ -35,3 +37,4 @@ Contributions to Quote Hub are welcome! If you'd like to contribute, please fork
 
 ## Issues
 If you encounter any issues with Quote Hub, please report them in the Issues section.
+
