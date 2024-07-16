@@ -1,6 +1,6 @@
 # Quote Hub
 ## About
-Quote Hub is a web application that provides a platform for users to discover and explore inspirational quotes that uses API to fetch Quotes and built using HTML, CSS and JS. The website allows users to generate new quotes, like and save their favorite quotes, and share them on social media.
+Quote Hub is a web application that provides a platform for users to discover and explore inspirational quotes that uses API to fetch Quotes and built using JavaScript. The website allows users to generate new quotes, like and save their favorite quotes, and share them on social media.
 
 ## Functions
 ### Quote Generation
